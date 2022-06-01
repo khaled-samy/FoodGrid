@@ -1,0 +1,28 @@
+{
+  "name": "FoodGrid-Mahmoud-Khaled",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logic.js",
+  "dependencies": {
+    "init": "^0.1.2",
+    "t": "^0.5.1",
+    "test": "^0.6.0"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSG-G11/FoodGrid-Mahmoud-Khaled.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSG-G11/FoodGrid-Mahmoud-Khaled/issues"
+  },
+  "homepage": "https://github.com/GSG-G11/FoodGrid-Mahmoud-Khaled#readme"
+}
